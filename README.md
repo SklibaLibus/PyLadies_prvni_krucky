@@ -1,4 +1,4 @@
-<h1>_PyLadies_</h1>
+<h1>PyLadies</h1>
 
 <h2>První krůčky</h2>
 
