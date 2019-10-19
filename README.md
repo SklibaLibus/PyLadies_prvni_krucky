@@ -3,3 +3,5 @@
 <h2>První krůčky</h2>
 
 <p>První krůčky v GitHubu pro PyLadies.</p>
+
+Změna v master větvi.
